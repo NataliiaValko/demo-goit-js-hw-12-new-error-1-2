@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/demo-goit-js-hw-12-new/",
+    "build": "vite build --base=/demo-goit-js-hw-12-new-error-1-2/",
     "preview": "vite preview"
   },
   "devDependencies": {
